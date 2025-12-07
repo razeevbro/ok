@@ -13,3 +13,4 @@ let fname="Razeev";
 console.log(typeof(fname));
 let age=19;
 console.log(typeof(age));
+console.log("My name is "+fname+" and my age is "+age);
